@@ -1,0 +1,29 @@
+.circle img{
+  display: block;
+  width: 150px;
+  height: 150px;
+  margin: 1em auto;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+  -webkit-border-radius: 99em;
+  -moz-border-radius: 99em;
+  border-radius: 99em;
+  border: 5px solid #eee;
+   
+}h3{
+  color:black;
+}
+p{
+  color:black;
+}
+.wait p{
+  color:#bdc3c7;
+}
+.wait h3{
+  color:#bdc3c7;
+}
+.wait img{
+  color:#bdc3c7;
+  opacity: 0.4;
+}
